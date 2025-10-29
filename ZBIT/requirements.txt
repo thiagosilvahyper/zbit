@@ -1,0 +1,30 @@
+# ZBIT Framework - Production Dependencies
+# Generated from pyproject.toml
+
+# Core Dependencies
+pydantic>=2.0
+numpy>=1.20
+dataclasses-json>=0.5.14
+
+# Development Dependencies (for local development)
+pytest>=7.0
+pytest-cov>=4.0
+pytest-xdist>=3.0
+black>=23.0
+pylint>=2.15
+mypy>=1.0
+isort>=5.11
+flake8>=5.0
+
+# Web/API Dependencies
+fastapi>=0.95
+uvicorn[standard]>=0.20
+
+# Visualization Dependencies
+matplotlib>=3.5
+plotly>=5.0
+
+# Documentation Dependencies
+sphinx>=5.0
+sphinx-rtd-theme>=1.0
+myst-parser>=0.18

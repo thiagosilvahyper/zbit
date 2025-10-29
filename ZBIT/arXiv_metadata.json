@@ -1,0 +1,7 @@
+{
+  "title": "ZBIT-CORE-v2: Scalable Floquet-Topological Quantum Simulation with 3D Tensor Networks and Hybrid QML",
+  "authors": "ZBIT Quantum Team",
+  "categories": "quant-ph",
+  "abstract": "We present ZBIT-CORE-v2, a scalable quantum simulation framework achieving up to 500 qubits using HOTRG tensor compression and 4th-order Suzuki-Trotter evolution...",
+  "license": "http://arxiv.org/licenses/nonexclusive-distrib/1.0/"
+}

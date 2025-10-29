@@ -1,0 +1,7 @@
+ZBIT-CORE-v2 — DEMO LEVE
+Data: 2025-10-29 03:57:36
+Tempo total: 0.07s
+Qubits: 6
+Validação: 9/9 PASS (HIGH)
+Evolução: 50 passos
+OTOC máx: 0.8408

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "ZBIT Team"
+    website: "https://github.com/zbit/core-v2"
+title: "ZBIT-CORE-v2: Scalable Floquet-Topological Quantum Simulation"
+version: 2.0.0
+date-released: 2025-10-29
+url: "https://github.com/zbit/core-v2"
+repository-code: "https://github.com/zbit/core-v2"
+license: "MIT"
