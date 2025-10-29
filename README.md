@@ -46,3 +46,8 @@ pip install -e .
 
 # Run medium demo (10 qubits)
 python demo_medio.py
+
+![quantum-computing](https://img.shields.io/badge/topic-quantum__computing-blue)
+![tensor-networks](https://img.shields.io/badge/topic-tensor__networks-green)
+![hotrg](https://img.shields.io/badge/topic-HOTRG-orange)
+![qml](https://img.shields.io/badge/topic-QML-purple)
